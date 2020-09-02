@@ -1,2 +1,2 @@
-# Automoatic-Room-Temperature-Control-System
+# Automatic-Room-Temperature-Control-System
 The design of automatic room temperature is simple, it uses a temperature sensor to detect the temperature of room and turns on appliances in accordance with temperature. However we add different stuff and program it in microcontroller to make it better in real world use. Like these appliances are not only dependent on the temperature of room, but on a motion sensor that gives signal to ‘AND’ gate to confirm that there is need of turning these appliances.
